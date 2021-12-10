@@ -68,7 +68,7 @@ elevation: 0,
                   ),
                    ContactCard(
                     userContact: 0552381988,
-                    userName:"Edward👌",
+                    userName:"Edward",
                     imageUrl: "",
                   ),
                    ContactCard(
